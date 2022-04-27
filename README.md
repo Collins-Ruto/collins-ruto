@@ -1,13 +1,14 @@
-### Hi there 👋
+## Hi there 👋 <hr>
 
-## I'm Collins K. Ruto
+### I'm Collins Ruto 
 
 I am a self taught developer from Mombasa, Kenya.
 I'm well experienced in web design and software development and some bit of Android dev. 
 I am fluent in HTML, CSS, Javascript, React, Python and still learning more. 
 My biggest drive is the hope to be an inspiration and mentor to upcoming developers and programers around the world.
+Did I mention I'm also a marine engineering student ?. Well that's what I do at the Technical University of Mombasa. <hr>
 
-## What am I doing?
+### What am I doing? 
 
 🔭 I’m currently working on a projectto create a web application for developers going by DevsQuest.
   It is ment to connect and build communities of developers where we can be able to organize and build working teams
@@ -17,7 +18,9 @@ The project is part of my learning of react and when I'm I hope I'll be proficie
 🌱 I’m also learning Reactjs an awesome JavaScript framework.
 Thereafter I will be working on some backends and data management.
 
-👯 I’m looking to collaborate with other learning devs to complete the DevsQuest project and I hope it'll be a success.
+👯 I’m looking to collaborate with other learning devs to complete the DevsQuest project and I hope it'll be a success. <hr>
+
+### Stats 
 
 [![Collins' GitHub stats](https://github-readme-stats.vercel.app/api?username=collins-ruto)](https://github.com/anuraghazra/github-readme-stats)
 
