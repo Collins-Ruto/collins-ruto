@@ -23,7 +23,7 @@ If you are up for the challenge be sure to DM me right now 📬 <hr>
 
 ### Stats 
 
-[![Collins' GitHub stats](https://github-readme-stats.vercel.app/api?username=collins-ruto)](https://github.com/anuraghazra/github-readme-stats)
+[![Collins' GitHub stats](https://github-readme-stats.vercel.app/api?username=collins-ruto&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
