@@ -2,10 +2,9 @@
 
 <br>
 
-I am a self taught developer from Mombasa, Kenya 🇰🇪. <br>
-I'm well experienced in web design and software development, some bit of Android dev and learning more. <br>
-My biggest drive is the hope to be an inspiration and mentor to upcoming developers and programers around the world. <br>
-Did I mention I'm also a marine engineering student ?. Well that's what I do at the Technical University of Mombasa. <hr>
+I'm Collins Ruto a self taught developer from Mombasa, Kenya 🇰🇪. <br>
+Experienced in web design and software development, some bit of Android dev and learning more. <br>
+My biggest drive is the hope to be an inspiration and mentor to upcoming developers and programers around the world.<hr>
 
 [![Twitter Badge](https://img.shields.io/badge/-@ruto_collins_-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/ruto_collins_) [![Codepen Badge](https://img.shields.io/badge/-CodePen-gray?style=flat&labelColor=gray&logo=codepen&logoColor=white)](https://codepen.com/ruto_collins_) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/collins-ruto/) [![Mail Badge](https://img.shields.io/badge/-Instagram-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/colins_ruto) [![Stackoverflow Badge](https://img.shields.io/badge/-StackOverflow-1ca0f1?style=flat&labelColor=1ca0f1&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/17242991/collins-ruto) [![Mail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:collinsruto48@gmail.com)
 
@@ -15,10 +14,9 @@ Did I mention I'm also a marine engineering student ?. Well that's what I do at 
 
 - 🔭 I’m currently working on a project to create a web application for developers going by DevsQuest. <br>
 
-- 🌱 I’m also learning Reactjs an awesome JavaScript framework. <br>
-Thereafter I will be working on some backends and databases.
+- 🌱 Learning Reactjs, an awesome JavaScript framework and Thereafter work on some backends and databases.
 
-- 👯 Looking to collaborate with other learning devs to complete the DevsQuest project and I hope it'll be a success.
+- 👯 Looking to collaborate with other learning devs to complete the DevsQuest project.
 If you are up for the challenge be sure to DM me right now 📬
 
 - 📫 How to reach me: collinsruto48@gmail.com
@@ -59,6 +57,7 @@ If you are up for the challenge be sure to DM me right now 📬
 
 It is meant to connect and build communities of developers where we can be able to organize, link and build working teams
 for educational and development purposes. <br>
+Catch phrase: Code and Coffee <br>
 I'll be building it gradually and adding new features with time, and hopefully launch 🚀 it soon.
 In the end it should have games, challenges, collabs, blogs and a forum.
 The project is part of my learning of react and when I'm I hope I'll be proficient enough.
@@ -69,11 +68,13 @@ I love engineering, IOT, programming and computers. <br>
 How did i start?, well it all started with an old IBM computer 🖥️ that we had at home back in the days.
 Back then we only drew stuff with microsoft paint, but in the end, I grew curious of how it worked and everything about it.
 And voila, here I am learning and developing the same thing that were but my curiosity.<br>
-The little things and steps are key, keep learning and write it all down in code 😉
+The little things and steps are key, keep learning and write it all down in code 😉.<br>
+Did I mention I'm also a marine engineering student ?. Well that's what I do at the Technical University of Mombasa.
 
 #### Likes
 
 - Dogs
+- Tea & Coffee ☕️
 - Video games
 - Novels
 - Movie series
@@ -85,4 +86,4 @@ The little things and steps are key, keep learning and write it all down in code
 
 </details>
 
-<!-- 🦝⚡️🥂☕️🏆🚀⚙️🌐 🇰🇪 🖥️ -->
+<!-- 🦝⚡️🥂🏆🚀⚙️🌐 🇰🇪 🖥️ -->
