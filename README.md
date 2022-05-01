@@ -42,6 +42,9 @@ Links takes you to repositories utilizing them. give it a try.
 
 #### Coding stats
 
+[![wakatime](https://wakatime.com/badge/github/Collins-Ruto/collins-ruto.svg)](https://wakatime.com/badge/github/Collins-Ruto/collins-ruto)
+<br>
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
