@@ -37,9 +37,8 @@ Links takes you to repositories utilizing them. give it a try.
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ### Stats
-
-[![Collins' GitHub stats](https://github-readme-stats.vercel.app/api?username=collins-ruto&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=collins-ruto&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=collins-ruto&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Collins' GitHub stats](https://github-readme-stats.vercel.app/api?username=collins-ruto&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 #### Coding stats
 
 [![wakatime](https://wakatime.com/badge/github/Collins-Ruto/collins-ruto.svg)](https://wakatime.com/badge/github/Collins-Ruto/collins-ruto)
