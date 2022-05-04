@@ -45,6 +45,15 @@ Links takes you to repositories utilizing them. give it a try.
 <br>
 
 <!--START_SECTION:waka-->
+
+```text
+Markdown   3 hrs 33 mins   ███████████████████▓░░░░░   78.76 %
+CSS        32 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.12 %
+YAML       9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
+Python     9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
+HTML       5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
+```
+
 <!--END_SECTION:waka-->
 
 #### Profile Visits
