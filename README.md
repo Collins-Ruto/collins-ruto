@@ -42,6 +42,9 @@ Links takes you to repositories utilizing them. give it a try.
 #### Coding stats
 
 [![wakatime](https://wakatime.com/badge/github/Collins-Ruto/collins-ruto.svg)](https://wakatime.com/badge/github/Collins-Ruto/collins-ruto)
+
+<!-- The GUI version of the stats below love the graphic one -->
+<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=collinsruto)](https://github.com/anuraghazra/github-readme-stats) -->
 <br>
 
 <!--START_SECTION:waka-->
