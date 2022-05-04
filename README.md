@@ -38,7 +38,7 @@ Links takes you to repositories utilizing them. give it a try.
 
 ### Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=collins-ruto&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Collins' GitHub stats](https://github-readme-stats.vercel.app/api?username=collins-ruto&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Collins' GitHub stats](https://github-readme-stats.vercel.app/api?username=collins-ruto&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 #### Coding stats
 
 [![wakatime](https://wakatime.com/badge/github/Collins-Ruto/collins-ruto.svg)](https://wakatime.com/badge/github/Collins-Ruto/collins-ruto)
