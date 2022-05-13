@@ -50,12 +50,12 @@ Links takes you to repositories utilizing them. give it a try.
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   30 hrs 13 mins  ██████████████████▓░░░░░░   74.50 %
-CSS          5 hrs 12 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.86 %
-JSON         1 hr 50 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
-Git Config   1 hr 43 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
-Text         24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
-HTML         18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+JavaScript   37 hrs 35 mins  ███████████████████▒░░░░░   77.81 %
+CSS          5 hrs 12 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.80 %
+JSON         1 hr 57 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
+Git Config   1 hr 46 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
+Text         24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
+Other        22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
 ```
 
 <!--END_SECTION:waka-->
