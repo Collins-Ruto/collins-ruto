@@ -2,7 +2,7 @@
 
 <br>
 
-I'm Collins Ruto a self taught developer from Mombasa, Kenya 🇰🇪. <br>
+I'm Collins Ruto a self taught developer from Mombasa, Kenya 🇰🇪.<br>
 Experienced in web design and software development, some bit of Android dev and learning more. <br>
 My biggest drive is the hope to be an inspiration and mentor to upcoming developers and programers around the world.<hr>
 
