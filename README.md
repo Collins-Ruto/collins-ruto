@@ -50,9 +50,8 @@ Links takes you to repositories utilizing them. give it a try.
 <!--START_SECTION:waka-->
 
 ```text
-Rust         4 hrs 54 mins   ████████████████████████▒   97.27 %
-TOML         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
-Git Config   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+Rust         3 hrs 29 mins   █████████████████████████   99.96 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
