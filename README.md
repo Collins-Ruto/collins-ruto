@@ -50,7 +50,7 @@ Links takes you to repositories utilizing them. give it a try.
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Rust   1 min           █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
