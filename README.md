@@ -50,12 +50,12 @@ Links takes you to repositories utilizing them. give it a try.
 <!--START_SECTION:waka-->
 
 ```text
-Dart     15 hrs 2 mins   ████████████████████████▓   98.63 %
-YAML     6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
-C++      4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
-Kotlin   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+Dart     15 hrs 2 mins   ███████████████████████░░   92.10 %
+Rust     1 hr 4 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.61 %
+YAML     6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+C++      4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+Kotlin   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 Java     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-CMake    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
