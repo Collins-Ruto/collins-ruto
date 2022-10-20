@@ -50,8 +50,7 @@ Links takes you to repositories utilizing them. give it a try.
 <!--START_SECTION:waka-->
 
 ```text
-ERB    34 mins         ██████████████████████▓░░   91.33 %
-Ruby   3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.67 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
