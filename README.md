@@ -2,9 +2,9 @@
 
 <br>
 
-I'm Collins Ruto a self taught developer from Mombasa, Kenya 🇰🇪.<br>
-Experienced in web design and software development, some bit of Android dev and learning more. <br>
-My biggest drive is the hope to be an inspiration and mentor to upcoming developers and programers around the world.<hr>
+I'm Collins Ruto a full-stack developer from Mombasa, Kenya 🇰🇪.<br>
+Experienced in full-stack web, web3 and software development, some bit of Android dev and learning more. <br>
+My biggest drive is the hope to be an inspiration and mentor to upcoming developers and programmers around the world.<hr>
 
 #### Social tags
 
@@ -16,7 +16,7 @@ My biggest drive is the hope to be an inspiration and mentor to upcoming develop
 
 - 🔭 I’m currently working on a project to create a web application for developers going by DevsQuest. <br>
 
-- 🌱 Learning Reactjs, an awesome JavaScript framework and Thereafter work on some backends and databases.
+- 🌱 Learning solidity for web3 and smart contracts development.
 
 - 👯 Looking to collaborate with other learning devs to complete the DevsQuest project.
 If you are up for the challenge be sure to DM me right now 📬
