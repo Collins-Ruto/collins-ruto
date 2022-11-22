@@ -50,12 +50,12 @@ Links takes you to repositories utilizing them. give it a try.
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   2 hrs 53 mins   █████████░░░░░░░░░░░░░░░░   36.13 %
-JSON         1 hr 57 mins    ██████░░░░░░░░░░░░░░░░░░░   24.41 %
-Rust         1 hr 7 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.02 %
-Dart         51 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.67 %
-Groovy       23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 %
-Git Config   19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
+JavaScript   4 hrs 16 mins   ███████████▓░░░░░░░░░░░░░   46.34 %
+Rust         1 hr 23 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.17 %
+JSON         1 hr 22 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.00 %
+Dart         51 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.28 %
+Groovy       23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 %
+TOML         21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
 ```
 
 <!--END_SECTION:waka-->
