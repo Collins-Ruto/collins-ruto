@@ -50,12 +50,12 @@ Links takes you to repositories utilizing them. give it a try.
 <!--START_SECTION:waka-->
 
 ```text
-Solidity     2 hrs 14 mins   ███████████▓░░░░░░░░░░░░░   46.76 %
-JavaScript   1 hr 22 mins    ███████░░░░░░░░░░░░░░░░░░   28.40 %
-CSS          40 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.98 %
-Python       16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
-Rust         12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 %
-JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+Solidity     2 hrs 14 mins   ██████████▓░░░░░░░░░░░░░░   42.01 %
+JavaScript   1 hr 27 mins    ██████▓░░░░░░░░░░░░░░░░░░   27.30 %
+CSS          40 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.56 %
+Rust         38 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.94 %
+Python       16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.23 %
+JSON         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
 ```
 
 <!--END_SECTION:waka-->
