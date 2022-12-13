@@ -50,9 +50,8 @@ Links takes you to repositories utilizing them. give it a try.
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   7 hrs 50 mins   ████████████████████████▓   98.06 %
-Rust         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
-CSS          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+JavaScript   56 mins         ██████████████████████▒░░   88.70 %
+Rust         7 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.30 %
 ```
 
 <!--END_SECTION:waka-->
