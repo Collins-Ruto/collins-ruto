@@ -50,8 +50,7 @@ Links takes you to repositories utilizing them. give it a try.
 <!--START_SECTION:waka-->
 
 ```text
-TOML         2 hrs 26 mins   ████████░░░░░░░░░░░░░░░░░   32.25 %
-Other        1 hr 19 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.46 %
+Other        1 hr 17 mins    ███████▓░░░░░░░░░░░░░░░░░   30.37 %
 ```
 
 <!--END_SECTION:waka-->
