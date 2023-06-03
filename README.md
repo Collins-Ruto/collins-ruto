@@ -49,12 +49,12 @@ Links takes you to repositories utilizing them. give it a try.
 
 <!--START_SECTION:waka-->
 
-```text
-TypeScript   33 hrs 17 mins  ███████████████████████▓░   95.05 %
-JSON         29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
-JavaScript   24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
-TSConfig     18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
-Other        17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+```txt
+TypeScript   32 hrs 3 mins   ██████████████████████▓░░   90.06 %
+JavaScript   1 hr 45 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.94 %
+JSON         31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
+Bash         20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
+TSConfig     18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
 ```
 
 <!--END_SECTION:waka-->
