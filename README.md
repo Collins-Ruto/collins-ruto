@@ -41,7 +41,8 @@ Links takes you to repositories utilizing them. give it a try.
 [![Collins' GitHub stats](https://github-readme-stats.vercel.app/api?username=collins-ruto&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 #### Coding stats
 
-[![wakatime](https://wakatime.com/badge/github/Collins-Ruto/collins-ruto.svg)](https://wakatime.com/badge/github/Collins-Ruto/collins-ruto)
+<!-- [![wakatime](https://wakatime.com/badge/github/Collins-Ruto/collins-ruto.svg)](https://wakatime.com/badge/github/Collins-Ruto/collins-ruto) -->
+[![wakatime](https://wakatime.com/badge/user/426a2cff-37ab-4579-87f6-d3f2fa22c2a8.svg)](https://wakatime.com/@426a2cff-37ab-4579-87f6-d3f2fa22c2a8)
 
 <!-- The GUI version of the stats below love the graphic one -->
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=collinsruto)](https://github.com/anuraghazra/github-readme-stats) -->
