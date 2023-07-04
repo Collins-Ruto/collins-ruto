@@ -51,11 +51,11 @@ Links takes you to repositories utilizing them. give it a try.
 <!--START_SECTION:waka-->
 
 ```txt
-Python       11 hrs 40 mins  █████████▓░░░░░░░░░░░░░░░   38.79 %
-HTML         9 hrs 2 mins    ███████▓░░░░░░░░░░░░░░░░░   30.05 %
-Markdown     2 hrs 58 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.90 %
-Rust         2 hrs 11 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.30 %
-C            1 hr 51 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 %
+Python       11 hrs 40 mins  ██████████▒░░░░░░░░░░░░░░   41.58 %
+HTML         9 hrs 2 mins    ████████░░░░░░░░░░░░░░░░░   32.22 %
+C            4 hrs 38 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.53 %
+CSS          1 hr 1 min      █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
+JavaScript   26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
 ```
 
 <!--END_SECTION:waka-->
