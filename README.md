@@ -51,11 +51,11 @@ Links takes you to repositories utilizing them. give it a try.
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   30 hrs 37 mins  █████████████████▓░░░░░░░   70.11 %
-JavaScript   8 hrs 30 mins   █████░░░░░░░░░░░░░░░░░░░░   19.48 %
-Other        1 hr 53 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
-JSON         1 hr 3 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
-Markdown     19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+TypeScript   30 hrs 14 mins  ██████████████████████░░░   87.51 %
+Other        1 hr 27 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
+JavaScript   51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
+JSON         47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
+C            19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
 ```
 
 <!--END_SECTION:waka-->
