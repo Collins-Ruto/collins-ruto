@@ -51,11 +51,11 @@ Links takes you to repositories utilizing them. give it a try.
 <!--START_SECTION:waka-->
 
 ```txt
-Bash         14 mins         ███████▒░░░░░░░░░░░░░░░░░   29.48 %
-Text         13 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.24 %
-TypeScript   10 mins         █████░░░░░░░░░░░░░░░░░░░░   20.66 %
-fish         6 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.99 %
-Other        3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 %
+Bash         27 mins         █████████▒░░░░░░░░░░░░░░░   37.95 %
+Other        21 mins         ███████▒░░░░░░░░░░░░░░░░░   29.77 %
+Text         13 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.24 %
+fish         9 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.08 %
+JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
 ```
 
 <!--END_SECTION:waka-->
