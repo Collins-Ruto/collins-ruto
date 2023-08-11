@@ -51,9 +51,7 @@ Links takes you to repositories utilizing them. give it a try.
 <!--START_SECTION:waka-->
 
 ```txt
-Other   21 mins         ██████████████▒░░░░░░░░░░   56.87 %
-Bash    13 mins         ████████▓░░░░░░░░░░░░░░░░   34.77 %
-fish    3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
