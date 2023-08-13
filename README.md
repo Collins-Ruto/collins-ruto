@@ -51,7 +51,11 @@ Links takes you to repositories utilizing them. give it a try.
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+JavaScript   6 mins          █████████████▓░░░░░░░░░░░   54.35 %
+JSON         3 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.40 %
+Text         2 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.95 %
+Bash         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+fish         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:waka-->
