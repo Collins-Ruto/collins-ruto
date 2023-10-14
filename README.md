@@ -51,8 +51,8 @@ Links takes you to repositories utilizing them. give it a try.
 <!--START_SECTION:waka-->
 
 ```txt
-CSS    20 mins         ████████████████▒░░░░░░░░   65.67 %
-HTML   10 mins         ████████▓░░░░░░░░░░░░░░░░   34.33 %
+HTML   34 mins         ███████████████▓░░░░░░░░░   63.04 %
+CSS    20 mins         █████████▒░░░░░░░░░░░░░░░   36.96 %
 ```
 
 <!--END_SECTION:waka-->
