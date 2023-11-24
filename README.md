@@ -51,11 +51,11 @@ Links takes you to repositories utilizing them. give it a try.
 <!--START_SECTION:waka-->
 
 ```txt
-Git Config   5 mins          ██████████░░░░░░░░░░░░░░░   40.12 %
-Other        1 min           ███▓░░░░░░░░░░░░░░░░░░░░░   14.80 %
-TypeScript   1 min           ███▓░░░░░░░░░░░░░░░░░░░░░   14.07 %
-Bash         1 min           ███▒░░░░░░░░░░░░░░░░░░░░░   13.48 %
-JSON         1 min           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.15 %
+Rust         1 hr 32 mins    ██████████████████▓░░░░░░   75.00 %
+TOML         11 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.23 %
+Git Config   5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
+Other        4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
+JSON         4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
 ```
 
 <!--END_SECTION:waka-->
