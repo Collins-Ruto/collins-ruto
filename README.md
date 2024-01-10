@@ -51,7 +51,9 @@ Links takes you to repositories utilizing them. give it a try.
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Rust         50 mins         ██████████████████████▒░░   89.75 %
+TypeScript   5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.15 %
+Markdown     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
 ```
 
 <!--END_SECTION:waka-->
