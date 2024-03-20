@@ -51,8 +51,8 @@ Links takes you to repositories utilizing them. give it a try.
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   4 hrs 37 mins   ████████████▓░░░░░░░░░░░░   51.16 %
-TypeScript   4 hrs 24 mins   ████████████▒░░░░░░░░░░░░   48.84 %
+TypeScript   3 hrs 31 mins   █████████████▓░░░░░░░░░░░   55.05 %
+JavaScript   2 hrs 52 mins   ███████████▒░░░░░░░░░░░░░   44.95 %
 ```
 
 <!--END_SECTION:waka-->
