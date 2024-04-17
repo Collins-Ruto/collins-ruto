@@ -51,8 +51,7 @@ Links takes you to repositories utilizing them. give it a try.
 <!--START_SECTION:waka-->
 
 ```txt
-Other   1 hr 18 mins    ██████████████████████▓░░   90.45 %
-TOML    8 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.55 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
