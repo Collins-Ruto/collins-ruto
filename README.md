@@ -51,11 +51,10 @@ Links takes you to repositories utilizing them. give it a try.
 <!--START_SECTION:waka-->
 
 ```txt
-Other        2 hrs 52 mins   ██████████████░░░░░░░░░░░   56.64 %
-Rust         1 hr 30 mins    ███████▒░░░░░░░░░░░░░░░░░   29.72 %
-TOML         20 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.69 %
-Bash         19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.31 %
-Markdown     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+Rust    1 hr 26 mins    ████████████████████▒░░░░   81.33 %
+Bash    10 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.79 %
+TOML    8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 ```
 
 <!--END_SECTION:waka-->
