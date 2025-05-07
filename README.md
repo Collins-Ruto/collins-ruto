@@ -23,7 +23,7 @@ If you are up for the challenge be sure to DM me right now 📬
 
 - 📫 How to reach me: collinsruto48@gmail.com
 
-- 🌐 My website: <https://collinsruto.netlify.app><hr>
+- 🌐 My website: <https://collinsruto.vercel.app><hr>
 
 ### Top Technologies
 
