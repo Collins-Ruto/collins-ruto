@@ -7,19 +7,7 @@
 
 ### Full-Stack Software Engineer • SaaS & Payments Systems
 
-#### Building reliable SaaS platforms and secure payment systems.
-  
-  <p align="center">
-  <a href="https://collinsruto.vercel.app/">Website</a> •
-  <a href="https://collinsruto.vercel.app/projects">Projects</a> •
-  <a href="https://collinsruto.vercel.app/blogs">Blogs</a> •
-  <a href="mailto:collinsruto48@gmail.com">Email</a> •
-  <a href="https://twitter.com/ruto_collins_">Twitter</a> •
-  <a href="https://www.linkedin.com/in/collins-ruto/">LinkedIn</a> •
-  <a href="https://instagram.com/colins_ruto">Instagram</a>
-</p>
-
-#### Quick Tags
+#### Building reliable SaaS platforms and secure payment systems
 
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-000000?style=flat&labelColor=000000&logo=vercel&logoColor=white)](https://collinsruto.vercel.app/)
 [![Blog Badge](https://img.shields.io/badge/-Blogs-2962FF?style=flat&labelColor=2962FF&logo=hashnode&logoColor=white)](https://collinsruto.vercel.app/blogs)
@@ -32,8 +20,6 @@
 [![Codepen Badge](https://img.shields.io/badge/-CodePen-gray?style=flat&labelColor=gray&logo=codepen&logoColor=white)](https://codepen.com/collins-ruto)
 
 </div>
-
----
 
 ## Who I am
 
@@ -74,7 +60,7 @@ There are much more, these are just the few that I got icons for.
 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](https://github.com/collins-ruto/wallpaper-app)
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](https://github.com/collins-ruto/wallpaper-app)
-[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
+[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)]
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&labelColor=black&logo=html5&logoColor=white)](https://github.com/collins-ruto/my-portfolio)
@@ -82,7 +68,7 @@ There are much more, these are just the few that I got icons for.
 ### Backend & Logic
 
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](https://github.com/collins-ruto/wallpaper-app/server)
-[![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
+[![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)]
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&labelColor=black&logo=python&logoColor=ffdd54)](https://github.com/collins-ruto/christmas-tree-python)
 ![tRPC](https://img.shields.io/badge/-tRPC-2596be?style=for-the-badge&logo=trpc&logoColor=white)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
